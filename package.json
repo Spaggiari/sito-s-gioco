@@ -1,0 +1,19 @@
+{
+  "name": "static-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spaggiari/static-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spaggiari/static-generator/issues"
+  },
+  "homepage": "https://github.com/Spaggiari/static-generator#readme"
+}
